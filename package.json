@@ -1,0 +1,25 @@
+{
+  "name": "pdf-vuer",
+  "version": "0.0.2",
+  "description": "pdf.js viewer wrapper for vue.js v2",
+  "main": "dist/vuer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shershen08/vue2-pdfjs-viewer.git"
+  },
+  "keywords": [
+    "pdf.js",
+    "vue.js",
+    "pdf",
+    "viewer"
+  ],
+  "author": "mkuznetcov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shershen08/vue2-pdfjs-viewer/issues"
+  },
+  "homepage": "https://github.com/shershen08/vue2-pdfjs-viewer#readme"
+}
